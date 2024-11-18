@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This app works by calling the OMDB API for searching movies and shows the list of movies according to the search.
-
+Working of app(https://drive.google.com/file/d/1CVVHd93da8X9J2Wxx_gcWjBcOwEy6Un-/view?usp=sharing)
 
 A few resources to get you started if this is your first Flutter project:
 
